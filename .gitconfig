@@ -1,0 +1,8 @@
+[includeIf "gitdir:~/code/pf/"]
+	path = ~/code/pf/.gitconfig
+
+[includeIf "gitdir:~/code/lfjnascimento/"]
+	path = ~/code/lfjnascimento/.gitconfig
+
+[core]
+	editor = vim
